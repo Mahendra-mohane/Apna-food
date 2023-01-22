@@ -18,12 +18,12 @@ A recipe is a set of instructions that describes how to prepare or make somethin
 
 ## Authors
 
-- [@praveenbankhede](https://github.com/praveen1295)
+- [@mahendramohane](https://github.com/Mahendra-mohane)
 
 
 ## Deployment
 
-the website is deployed using Netlify which is a free web hosting application. Live Link URL : https://recipie-website-by-pv-bankhede.netlify.app
+the website is deployed using Netlify which is a free web hosting application. Live Link URL : 
 
 
 
